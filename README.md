@@ -4,3 +4,5 @@
 📫 How to reach me ...
    Email : kunalkaushik2505@gmail.com 
    Contact No. : +917668724934
+   
+ NOTE: The Machine Learning code currently up on my repositories was a part of my first two projects ever implementing Machine Learning! I am very proud of the effort put in to meet the deadlines, and although the results could have been much better, cut me some slack!!
